@@ -1,0 +1,2 @@
+ filter=lfs diff=lfs merge=lfs -text
+City[[:space:]]Driver[[:space:]]Game[[:space:]](executable)/** filter=lfs diff=lfs merge=lfs -text
